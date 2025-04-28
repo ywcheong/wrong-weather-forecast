@@ -1,0 +1,6 @@
+[submodule "service/collectorservice"]
+	path = service/collectorservice
+	url = git@github.com:ywcheong/wrong-weahter-forecast-collector-service.git
+[submodule "service/webservice"]
+	path = service/webservice
+	url = git@github.com:ywcheong/wrong-weather-forecast-web-service.git
